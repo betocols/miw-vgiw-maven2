@@ -1,4 +1,4 @@
-package maven2.assignment2;
+package maven2.practice2;
 
 public class User {
 

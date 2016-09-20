@@ -1,9 +1,11 @@
-package maven2.assignment2;
+package maven2.practice2;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import maven2.practice2.User;
 
 public class UserTest {
 	private User u;

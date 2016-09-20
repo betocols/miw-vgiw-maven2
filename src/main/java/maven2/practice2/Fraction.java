@@ -1,4 +1,4 @@
-package maven2.assignment2;
+package maven2.practice2;
 
 /**
  * Conceptos: Las fracciones propias son aquellas cuyo numerador es menor que el
